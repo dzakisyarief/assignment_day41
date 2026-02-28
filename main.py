@@ -25,4 +25,3 @@ elif page == "Contact":
     import kontak
     kontak.get_contact()
     
-    
